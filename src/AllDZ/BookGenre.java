@@ -1,3 +1,5 @@
+package AllDZ;
+
 public enum BookGenre {
 
     FANTASTIC,

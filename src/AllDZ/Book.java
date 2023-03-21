@@ -1,3 +1,5 @@
+package AllDZ;
+
 public class Book {
 
     private long id;

@@ -1,3 +1,5 @@
+package AllDZ;
+
 public class PostBox {
 
     int height;

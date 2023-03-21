@@ -1,3 +1,5 @@
+package AllDZ;
+
 public class RockPaperScissors {
      private User user;
      private Computer computer;

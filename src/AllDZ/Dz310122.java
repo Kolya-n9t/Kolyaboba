@@ -1,3 +1,5 @@
+package AllDZ;
+
 import java.util.TreeSet;
 
 public class Dz310122 {

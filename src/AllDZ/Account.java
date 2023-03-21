@@ -1,3 +1,5 @@
+package AllDZ;
+
 public class Account {
     public Account(String name, Integer balance, Integer numberKart, String pinCod) {
         this.name = name;

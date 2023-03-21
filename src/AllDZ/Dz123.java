@@ -1,3 +1,5 @@
+package AllDZ;
+
 import java.util.HashMap;
 
 public class Dz123 {

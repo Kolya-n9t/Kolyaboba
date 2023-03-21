@@ -1,3 +1,5 @@
+package AllDZ;
+
 import java.util.Scanner;
 
 public class User {

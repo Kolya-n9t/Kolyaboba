@@ -1,3 +1,5 @@
+package AllDZ;
+
 import java.util.Random;
 
 public class Computer {

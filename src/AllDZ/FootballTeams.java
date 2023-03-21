@@ -1,3 +1,5 @@
+package AllDZ;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
